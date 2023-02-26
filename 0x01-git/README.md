@@ -1,2 +1,1 @@
-My second commit
-Changed content
+My second commit updated
